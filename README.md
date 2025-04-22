@@ -1,1 +1,1 @@
-# djangocon-barbone
+# djangocon-barebone
